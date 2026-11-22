@@ -1,0 +1,6 @@
+# the owner's handwriting samples + model: local only, never committed
+data/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store

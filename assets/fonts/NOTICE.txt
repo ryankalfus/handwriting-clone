@@ -1,0 +1,4 @@
+ReenieBeanie.ttf: Reenie Beanie by James Grieshaber, SIL Open Font License 1.1 (from github.com/google/fonts).
+Used only as a stand-in for characters not yet in the handwriting library.
+AnnieUseYourTelescope, CoveredByYourGrace (Kimberly Geswein) and ShadowsIntoLight: SIL Open Font License 1.1, from github.com/google/fonts.
+The build picks whichever font is closest to the person's real letters to stand in for characters they haven't written yet.
